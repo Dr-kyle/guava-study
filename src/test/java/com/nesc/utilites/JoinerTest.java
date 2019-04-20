@@ -18,6 +18,9 @@ import static org.hamcrest.core.IsSame.sameInstance;
 import static org.junit.Assert.assertThat;
 import static org.junit.Assert.fail;
 
+/**
+ * Concatenate string together with a specified delimiter
+ */
 public class JoinerTest {
     private final List<String> stringList = Arrays.asList(
             "google","guava", "java", "scala", "kafka"
