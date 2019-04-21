@@ -1,4 +1,4 @@
-package com.nesc.utilites;
+package com.nesc.utilities;
 
 import com.google.common.base.Joiner;
 import com.google.common.collect.ImmutableMap;

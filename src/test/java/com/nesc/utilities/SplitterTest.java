@@ -1,4 +1,4 @@
-package com.nesc.utilites;
+package com.nesc.utilities;
 
 import com.google.common.base.CharMatcher;
 import com.google.common.base.Splitter;
